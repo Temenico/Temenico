@@ -4,7 +4,7 @@
 
 ![Location](https://img.shields.io/badge/Ubicación-Neiva,%20Huila,%20Colombia-green+1)
 
-<h4 align="center">Bienvenido🫡 Mi nombre es Nicolas Tello Mendez y soy estudiante de Ing. Sistemas en la Corporación Universitaria del Huila 💚. Me apasiona la programación y aprender tecnologías nuevas.</h4>
+<h4 align="center">¡Bienvenidos!🫡, Mi nombre es Nicolas Tello Mendez y soy estudiante de Ing. Sistemas en la Corporación Universitaria del Huila 💚. Me apasiona la programación y aprender tecnologías nuevas.</h4>
 
 ### 🤯 Proyectos Universitarios
 Este espacio se usará para la presentación de mis proyectos durante mi estadia como estudiante. 🫠
