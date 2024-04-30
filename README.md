@@ -8,8 +8,7 @@
 
 ### 🤯 Proyectos Universitarios
 Este espacio se usará para la presentación de mis proyectos durante mi estadia como estudiante. 🫠
-
-* [Frontend Angular](https://github.com/Temenico/AppFrontend.git)
+* [Corhuila Universitario](https://github.com/CorhuilaUniversitario)
 
 ### 👨‍💻 Aprendizaje e Intereses
 
